@@ -99,7 +99,7 @@ form button:hover {
 .note {
     padding: 1rem;
     /* border: 1px solid #777; */
-    background-color: #fff;
+    background-color: rgb(215, 215, 215);
     border-radius: 3px;
     margin: 1rem 0;
 
@@ -128,5 +128,5 @@ form button:hover {
 }
 
 .edit-btn {
-    background-color: var(--color-primary);
+    background-color: rgb(255, 163, 33)
 }
